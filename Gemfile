@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'ruby' '2.3.1' 
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 
@@ -38,3 +38,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
  gem 'jwt'
 gem 'simple_command'
 gem 'active_model_serializers', '~> 0.10.0'
+
+
+ruby "2.3.1"
