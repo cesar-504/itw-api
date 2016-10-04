@@ -12,6 +12,9 @@
 
 ActiveRecord::Schema.define(version: 20160917001845) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "items", force: :cascade do |t|
     t.string   "name"
     t.text     "description"
@@ -34,19 +37,8 @@ ActiveRecord::Schema.define(version: 20160917001845) do
     t.integer  "objective_id"
     t.datetime "created_at",   null: false
     t.datetime "updated_at",   null: false
-    t.index ["objective_id"], name: "index_publications_on_objective_id"
-    t.index ["user_id"], name: "index_publications_on_user_id"
-  end
-
-  create_table "search_pubs", force: :cascade do |t|
-    t.string   "title"
-    t.string   "content"
-    t.datetime "created_at",   null: false
-    t.datetime "updated_at",   null: false
-    t.integer  "user_id"
-    t.integer  "objective_id"
-    t.index ["objective_id"], name: "index_search_pubs_on_objective_id"
-    t.index ["user_id"], name: "index_search_pubs_on_user_id"
+    t.index ["objective_id"], name: "index_publications_on_objective_id", using: :btree
+    t.index ["user_id"], name: "index_publications_on_user_id", using: :btree
   end
 
   create_table "users", force: :cascade do |t|
@@ -58,4 +50,6 @@ ActiveRecord::Schema.define(version: 20160917001845) do
     t.datetime "updated_at",      null: false
   end
 
+  add_foreign_key "publications", "objectives"
+  add_foreign_key "publications", "users"
 end

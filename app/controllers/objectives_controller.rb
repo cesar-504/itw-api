@@ -1,6 +1,6 @@
 class ObjectivesController < ApplicationController
   before_action :set_objective, only: [:show, :update, :destroy]
-
+  before_action :authenticate_request
   # GET /objectives
   def index
     @objectives = Objective.all
