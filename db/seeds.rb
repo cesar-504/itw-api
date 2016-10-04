@@ -5,3 +5,419 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+userData=[{
+  "first_name": "Deborah",
+  "last_name": "Shaw",
+  "email": "dshaw0@slate.com"
+}, {
+  "first_name": "Doris",
+  "last_name": "Morris",
+  "email": "dmorris1@webnode.com"
+}, {
+  "first_name": "Debra",
+  "last_name": "Long",
+  "email": "dlong2@163.com"
+}, {
+  "first_name": "Ruth",
+  "last_name": "Stone",
+  "email": "rstone3@wordpress.com"
+}, {
+  "first_name": "Philip",
+  "last_name": "Gonzalez",
+  "email": "pgonzalez4@wordpress.org"
+}, {
+  "first_name": "Harold",
+  "last_name": "Martinez",
+  "email": "hmartinez5@japanpost.jp"
+}, {
+  "first_name": "Phyllis",
+  "last_name": "Lawson",
+  "email": "plawson6@ning.com"
+}, {
+  "first_name": "Jerry",
+  "last_name": "Burton",
+  "email": "jburton7@webs.com"
+}, {
+  "first_name": "Stephen",
+  "last_name": "Gardner",
+  "email": "sgardner8@gizmodo.com"
+}, {
+  "first_name": "Brenda",
+  "last_name": "Grant",
+  "email": "bgrant9@issuu.com"
+}, {
+  "first_name": "Sean",
+  "last_name": "Sanders",
+  "email": "ssandersa@springer.com"
+}, {
+  "first_name": "Shawn",
+  "last_name": "Long",
+  "email": "slongb@wix.com"
+}, {
+  "first_name": "Jessica",
+  "last_name": "Ramos",
+  "email": "jramosc@china.com.cn"
+}, {
+  "first_name": "Donna",
+  "last_name": "Diaz",
+  "email": "ddiazd@soundcloud.com"
+}, {
+  "first_name": "Scott",
+  "last_name": "Ruiz",
+  "email": "sruize@last.fm"
+}, {
+  "first_name": "Arthur",
+  "last_name": "Austin",
+  "email": "aaustinf@cmu.edu"
+}, {
+  "first_name": "Matthew",
+  "last_name": "Chavez",
+  "email": "mchavezg@techcrunch.com"
+}, {
+  "first_name": "Donald",
+  "last_name": "Chavez",
+  "email": "dchavezh@home.pl"
+}, {
+  "first_name": "Evelyn",
+  "last_name": "Collins",
+  "email": "ecollinsi@mapy.cz"
+}, {
+  "first_name": "Donald",
+  "last_name": "Riley",
+  "email": "drileyj@utexas.edu"
+}, {
+  "first_name": "Carolyn",
+  "last_name": "Williams",
+  "email": "cwilliamsk@blogspot.com"
+}, {
+  "first_name": "Jack",
+  "last_name": "Mitchell",
+  "email": "jmitchelll@paypal.com"
+}, {
+  "first_name": "Tammy",
+  "last_name": "Bell",
+  "email": "tbellm@who.int"
+}, {
+  "first_name": "Jean",
+  "last_name": "Lawson",
+  "email": "jlawsonn@sciencedirect.com"
+}, {
+  "first_name": "Peter",
+  "last_name": "Welch",
+  "email": "pwelcho@foxnews.com"
+}, {
+  "first_name": "Justin",
+  "last_name": "Wallace",
+  "email": "jwallacep@samsung.com"
+}, {
+  "first_name": "Sharon",
+  "last_name": "Tucker",
+  "email": "stuckerq@geocities.com"
+}, {
+  "first_name": "Harry",
+  "last_name": "Harper",
+  "email": "hharperr@ucla.edu"
+}, {
+  "first_name": "Wanda",
+  "last_name": "Parker",
+  "email": "wparkers@elegantthemes.com"
+}, {
+  "first_name": "Carlos",
+  "last_name": "Grant",
+  "email": "cgrantt@rakuten.co.jp"
+}, {
+  "first_name": "Cheryl",
+  "last_name": "Torres",
+  "email": "ctorresu@vk.com"
+}, {
+  "first_name": "Rachel",
+  "last_name": "Smith",
+  "email": "rsmithv@google.co.uk"
+}, {
+  "first_name": "Tammy",
+  "last_name": "Parker",
+  "email": "tparkerw@sakura.ne.jp"
+}, {
+  "first_name": "Deborah",
+  "last_name": "Hicks",
+  "email": "dhicksx@bing.com"
+}, {
+  "first_name": "Willie",
+  "last_name": "Hunt",
+  "email": "whunty@adobe.com"
+}, {
+  "first_name": "Lisa",
+  "last_name": "Holmes",
+  "email": "lholmesz@ebay.co.uk"
+}, {
+  "first_name": "Timothy",
+  "last_name": "Chavez",
+  "email": "tchavez10@delicious.com"
+}, {
+  "first_name": "Jimmy",
+  "last_name": "Dean",
+  "email": "jdean11@independent.co.uk"
+}, {
+  "first_name": "Cheryl",
+  "last_name": "Reynolds",
+  "email": "creynolds12@kickstarter.com"
+}, {
+  "first_name": "Gloria",
+  "last_name": "Warren",
+  "email": "gwarren13@netvibes.com"
+}, {
+  "first_name": "Andrew",
+  "last_name": "Edwards",
+  "email": "aedwards14@ftc.gov"
+}, {
+  "first_name": "Judith",
+  "last_name": "Peterson",
+  "email": "jpeterson15@arizona.edu"
+}, {
+  "first_name": "Clarence",
+  "last_name": "Nichols",
+  "email": "cnichols16@ucoz.com"
+}, {
+  "first_name": "Patricia",
+  "last_name": "West",
+  "email": "pwest17@si.edu"
+}, {
+  "first_name": "Christine",
+  "last_name": "Dixon",
+  "email": "cdixon18@homestead.com"
+}, {
+  "first_name": "Debra",
+  "last_name": "Schmidt",
+  "email": "dschmidt19@msn.com"
+}, {
+  "first_name": "Ashley",
+  "last_name": "Morales",
+  "email": "amorales1a@earthlink.net"
+}, {
+  "first_name": "Frances",
+  "last_name": "Stanley",
+  "email": "fstanley1b@marketwatch.com"
+}, {
+  "first_name": "Matthew",
+  "last_name": "Dunn",
+  "email": "mdunn1c@soup.io"
+}, {
+  "first_name": "Steven",
+  "last_name": "Matthews",
+  "email": "smatthews1d@discovery.com"
+}, {
+  "first_name": "Ruby",
+  "last_name": "Gordon",
+  "email": "rgordon1e@phpbb.com"
+}, {
+  "first_name": "Karen",
+  "last_name": "Bishop",
+  "email": "kbishop1f@github.com"
+}, {
+  "first_name": "Pamela",
+  "last_name": "Welch",
+  "email": "pwelch1g@pen.io"
+}, {
+  "first_name": "Albert",
+  "last_name": "Hill",
+  "email": "ahill1h@youku.com"
+}, {
+  "first_name": "Shawn",
+  "last_name": "Stevens",
+  "email": "sstevens1i@dagondesign.com"
+}, {
+  "first_name": "Thomas",
+  "last_name": "Turner",
+  "email": "tturner1j@blogspot.com"
+}, {
+  "first_name": "Ann",
+  "last_name": "Wilson",
+  "email": "awilson1k@examiner.com"
+}, {
+  "first_name": "Carl",
+  "last_name": "Robertson",
+  "email": "crobertson1l@bizjournals.com"
+}, {
+  "first_name": "Lillian",
+  "last_name": "Carr",
+  "email": "lcarr1m@usa.gov"
+}, {
+  "first_name": "Jimmy",
+  "last_name": "West",
+  "email": "jwest1n@seattletimes.com"
+}, {
+  "first_name": "Tina",
+  "last_name": "Mason",
+  "email": "tmason1o@spiegel.de"
+}, {
+  "first_name": "Carolyn",
+  "last_name": "Perez",
+  "email": "cperez1p@buzzfeed.com"
+}, {
+  "first_name": "Sharon",
+  "last_name": "Vasquez",
+  "email": "svasquez1q@qq.com"
+}, {
+  "first_name": "Lois",
+  "last_name": "Lane",
+  "email": "llane1r@people.com.cn"
+}, {
+  "first_name": "Janet",
+  "last_name": "Richardson",
+  "email": "jrichardson1s@dmoz.org"
+}, {
+  "first_name": "Donna",
+  "last_name": "Tucker",
+  "email": "dtucker1t@1und1.de"
+}, {
+  "first_name": "Wayne",
+  "last_name": "Reid",
+  "email": "wreid1u@springer.com"
+}, {
+  "first_name": "Shirley",
+  "last_name": "Gonzales",
+  "email": "sgonzales1v@youtube.com"
+}, {
+  "first_name": "Evelyn",
+  "last_name": "Warren",
+  "email": "ewarren1w@blogtalkradio.com"
+}, {
+  "first_name": "Martha",
+  "last_name": "Welch",
+  "email": "mwelch1x@ning.com"
+}, {
+  "first_name": "Gary",
+  "last_name": "Price",
+  "email": "gprice1y@nsw.gov.au"
+}, {
+  "first_name": "Barbara",
+  "last_name": "Hunt",
+  "email": "bhunt1z@google.es"
+}, {
+  "first_name": "Bonnie",
+  "last_name": "Hansen",
+  "email": "bhansen20@biblegateway.com"
+}, {
+  "first_name": "Martha",
+  "last_name": "Moreno",
+  "email": "mmoreno21@xinhuanet.com"
+}, {
+  "first_name": "Jimmy",
+  "last_name": "Kim",
+  "email": "jkim22@bandcamp.com"
+}, {
+  "first_name": "Diane",
+  "last_name": "Pierce",
+  "email": "dpierce23@skype.com"
+}, {
+  "first_name": "Anne",
+  "last_name": "Knight",
+  "email": "aknight24@economist.com"
+}, {
+  "first_name": "Evelyn",
+  "last_name": "Lopez",
+  "email": "elopez25@ehow.com"
+}, {
+  "first_name": "Robin",
+  "last_name": "Fuller",
+  "email": "rfuller26@jiathis.com"
+}, {
+  "first_name": "Donna",
+  "last_name": "Kennedy",
+  "email": "dkennedy27@intel.com"
+}, {
+  "first_name": "Heather",
+  "last_name": "Thompson",
+  "email": "hthompson28@buzzfeed.com"
+}, {
+  "first_name": "Stephanie",
+  "last_name": "Henderson",
+  "email": "shenderson29@ehow.com"
+}, {
+  "first_name": "Gregory",
+  "last_name": "Hill",
+  "email": "ghill2a@gravatar.com"
+}, {
+  "first_name": "Phyllis",
+  "last_name": "Lane",
+  "email": "plane2b@deliciousdays.com"
+}, {
+  "first_name": "Kevin",
+  "last_name": "Thompson",
+  "email": "kthompson2c@time.com"
+}, {
+  "first_name": "Diane",
+  "last_name": "Wood",
+  "email": "dwood2d@independent.co.uk"
+}, {
+  "first_name": "Timothy",
+  "last_name": "Warren",
+  "email": "twarren2e@multiply.com"
+}, {
+  "first_name": "Harold",
+  "last_name": "Howell",
+  "email": "hhowell2f@jiathis.com"
+}, {
+  "first_name": "Wayne",
+  "last_name": "Ryan",
+  "email": "wryan2g@delicious.com"
+}, {
+  "first_name": "Billy",
+  "last_name": "Elliott",
+  "email": "belliott2h@php.net"
+}, {
+  "first_name": "Chris",
+  "last_name": "Johnston",
+  "email": "cjohnston2i@rediff.com"
+}, {
+  "first_name": "Juan",
+  "last_name": "Romero",
+  "email": "jromero2j@rambler.ru"
+}, {
+  "first_name": "Roy",
+  "last_name": "Cox",
+  "email": "rcox2k@skype.com"
+}, {
+  "first_name": "Anthony",
+  "last_name": "Fields",
+  "email": "afields2l@youtu.be"
+}, {
+  "first_name": "Carolyn",
+  "last_name": "Wallace",
+  "email": "cwallace2m@jalbum.net"
+}, {
+  "first_name": "Jason",
+  "last_name": "Webb",
+  "email": "jwebb2n@booking.com"
+}, {
+  "first_name": "Eric",
+  "last_name": "Long",
+  "email": "elong2o@census.gov"
+}, {
+  "first_name": "Beverly",
+  "last_name": "Moore",
+  "email": "bmoore2p@reddit.com"
+}, {
+  "first_name": "Lisa",
+  "last_name": "Hayes",
+  "email": "lhayes2q@pbs.org"
+}, {
+  "first_name": "Charles",
+  "last_name": "Washington",
+  "email": "cwashington2r@wordpress.org"
+}]
+User.delete_all
+
+User.create!(first_name:"cesar" ,last_name:"guerra",email:"mail@mail.com",password:"123123123", password_confirmation: '123123123')
+for u in userData
+ User.create!(first_name:u[:first_name] ,last_name:u[:last_name],email:u[:email].to_s,password:"123123123", password_confirmation: '123123123')
+end
+
+Objective.delete_all
+Publication.delete_all
+for u in userData.sample 100
+  i=User.first.id
+  user=User.find rand(i..i+100)
+  o=Objective.create!(first_name:u[:first_name] ,last_name:u[:last_name],description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lorem ipsum, malesuada et sem ac, mollis dapibus dolor. Nam eu convallis enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum mollis placerat. Maecenas in nibh augue. In egestas augue dolor.")
+  Publication.create!(title:"Se busca! ",content:"Maecenas eleifend nisi at semper posuere. Sed at pharetra magna, et vestibulum odio. Fusce blandit, ante et sagittis molestie, est nibh pellentesque ipsum, sit amet euismod lectus nisi vel justo. Nulla pharetra, tellus quis imperdiet porta, sem ex tristique augue, dignissim malesuada elit sapien eu leo. Sed blandit velit consectetur cursus dapibus. In hac habitasse platea dictumst. Aenean a dignissim urna, at maximus nisl. Ut sed leo lectus. ",user_id:user.id,objective_id:o.id)
+end

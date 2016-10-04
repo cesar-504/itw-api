@@ -1,5 +1,5 @@
 class User < ApplicationRecord
   has_secure_password
-  has_many :search_pub
+  has_many :publications
 
 end

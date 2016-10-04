@@ -43,8 +43,9 @@ $( "#form" ).submit(function( event ) {
 
   // Put the results in a div
   posting.done(function( data ) {
-    console.Log(data.auth_token );
+    
     var content = $( data );
+    console.log( JSON.stringify(content) );
     $( "#resp" ).empty().append( JSON.stringify(content)  );
   });
 });

@@ -1,3 +1,3 @@
 class Objective < ApplicationRecord
-  has_many :search_pub
+  has_many :publications
 end
