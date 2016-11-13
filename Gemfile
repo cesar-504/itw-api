@@ -41,4 +41,4 @@ gem 'simple_command'
 gem 'active_model_serializers', '~> 0.10.0'
 
 
-ruby "2.3.1"
+ruby "2.3.0"
